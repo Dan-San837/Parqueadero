@@ -13,3 +13,6 @@ Este trabajo tuvo como resultados las siguientes características ordenadas:
 -El sistema debe manejar las reservas. Un cliente regular puede realizar una reserva para una plaza específica.
 
 -Los empleados del parqueadero gestionan las operaciones. Un empleado puede ser un supervisor o un cajero."
+
+
+![](https://github.com/Dan-San837/Parqueadero/blob/29bd9ded4b4814cfba9a3631f588c5da9febe636/Parqueadero2.09.jpg)
